@@ -1,0 +1,6 @@
+@Neathread2_HostAddress = http://localhost:5143
+
+GET {{Neathread2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
